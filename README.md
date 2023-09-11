@@ -1,16 +1,22 @@
 # hng_task2
 
-A new Flutter project.
+# Mobile CV Application
 
-## Getting Started
+The Mobile CV Application is a mobile application designed to showcase personal and professional details in the form of a comprehensive CV. It allows users to view and edit their CV information directly from their mobile devices.
+## Overview
 
-This project is a starting point for a Flutter application.
+The Mobile CV Application provides a user-friendly interface for creating, managing, and sharing a comprehensive CV. Users can enter their personal information like fullname,slackusername, githubhandle, a brief bio, educational background, work experience, skills, and other relevant details. The application aims to simplify the process of creating and maintaining a CV by providing a mobile-first approach.
+## Setup Instructions
+created the project file
+Provide any necessary configuration steps, such as setting up environment variables or modifying configuration files.
+Launch the application:
+- You can run the application on an emulator or physical device using the development server.
 
-A few resources to get you started if this is your first Flutter project:
+## Assumptions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- It is assumed that users have basic knowledge of using mobile applications and are familiar with creating and managing a CV.
+- The application assumes a single user per account and does not support multiple user profiles.
+- 
+## Contributing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Explain how others can contribute to the development of the Mobile CV Application. Include guidelines for submitting pull requests, reporting issues, or any other relevant information.
